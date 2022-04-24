@@ -1,0 +1,21 @@
+{
+    "name": "michaelruther95/laravel-auth-guard",
+    "autoload": {
+        "psr-4": {
+            "Michaelruther95\\LaravelAuthGuard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Ruther Batoon"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Michaelruther95\\LaravelAuthGuard\\MainServiceProvider"
+            ]
+        }
+    }
+}
