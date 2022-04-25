@@ -80,7 +80,7 @@ class TokenHandler {
             'scope' => '',
         ])->json();
 
-        if ($response['error']) {
+        if (isset($response['error'])) {
             return [
                 'success' => false,
                 'error' => [
