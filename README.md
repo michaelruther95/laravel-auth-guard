@@ -3,7 +3,6 @@
 - Basic user authentication
 - Passport token refreshment (Note: This package relies on Passport package authentication)
 - Password reset
-- Password update
 
 ###### This package only supports "Password Grant Client" authentication as of this moment.
 
