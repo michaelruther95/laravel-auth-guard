@@ -10,6 +10,7 @@
             "name": "Michael Ruther Batoon"
         }
     ],
+    "license": "MIT",
     "require": {},
     "extra": {
         "laravel": {
