@@ -15,8 +15,11 @@
 Step #1: Install first and configure **Laravel Passport**.
 composer require laravel/passport
 
-Step #2: Install the package itself,
+Step #2: Install the package itself.
 composer require michaelruther95/laravel-auth-guard
+
+Step #3: Run migrations.
+php artisan migrate
 
 ---
 
