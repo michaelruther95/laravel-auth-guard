@@ -60,3 +60,6 @@ php artisan migrate
 2. $param2 (Required) [STRING]: This parameter is the new password of the user.
 
 
+##### Hope you like this helper
+
+
